@@ -23,6 +23,6 @@
   },
   "version": "0.0.2",
   "dependencies": {
-    "rev-hash": "3.0.0"
+    "md5.js": "1.3.5"
   }
 }
