@@ -1,11 +1,14 @@
 {
   "devDependencies": {
-    "aberlaas": "1.24.1"
+    "aberlaas": "1.24.1",
+    "lodash": "4.17.21"
   },
   "engines": {
     "node": ">=14.17.0"
   },
-  "files": ["lib/*.js"],
+  "files": [
+    "lib/*.js"
+  ],
   "license": "MIT",
   "main": "lib/main.js",
   "name": "shar-teel",
@@ -18,5 +21,8 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "dependencies": {
+    "rev-hash": "3.0.0"
+  }
 }
