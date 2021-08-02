@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "aberlaas": "1.24.3",
+    "aberlaas": "1.24.6",
     "lodash": "4.17.21"
   },
   "engines": {
